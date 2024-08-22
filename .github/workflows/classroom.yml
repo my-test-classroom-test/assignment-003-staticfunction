@@ -1,0 +1,28 @@
+name: Classroom Autograder
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '8.x'
+
+    - name: Install dependencies
+      run: dotnet restore
+      working-directory: StaticFunctionExercises/StaticFunctionExercises
+
+    - name: Build the project
+      run: dotnet build --no-restore
+      working-directory: StaticFunctionExercises/StaticFunctionExercises
+
+    - name: Run tests
+      run: dotnet test --logger "trx;LogFileName=TestResults.trx"
+      working-directory: StaticFunctionExercises/StaticFunctionExercises

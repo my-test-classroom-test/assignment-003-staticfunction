@@ -1,0 +1,14 @@
+C:\Users\xy\Desktop\CSHARP_GITHUBCLASSROOM\StaticFunctionExercises\StaticFunctionExercises\bin\Debug\net8.0\StaticFunctionExercises.exe
+C:\Users\xy\Desktop\CSHARP_GITHUBCLASSROOM\StaticFunctionExercises\StaticFunctionExercises\bin\Debug\net8.0\StaticFunctionExercises.deps.json
+C:\Users\xy\Desktop\CSHARP_GITHUBCLASSROOM\StaticFunctionExercises\StaticFunctionExercises\bin\Debug\net8.0\StaticFunctionExercises.runtimeconfig.json
+C:\Users\xy\Desktop\CSHARP_GITHUBCLASSROOM\StaticFunctionExercises\StaticFunctionExercises\bin\Debug\net8.0\StaticFunctionExercises.dll
+C:\Users\xy\Desktop\CSHARP_GITHUBCLASSROOM\StaticFunctionExercises\StaticFunctionExercises\bin\Debug\net8.0\StaticFunctionExercises.pdb
+C:\Users\xy\Desktop\CSHARP_GITHUBCLASSROOM\StaticFunctionExercises\StaticFunctionExercises\obj\Debug\net8.0\StaticFunctionExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xy\Desktop\CSHARP_GITHUBCLASSROOM\StaticFunctionExercises\StaticFunctionExercises\obj\Debug\net8.0\StaticFunctionExercises.AssemblyInfoInputs.cache
+C:\Users\xy\Desktop\CSHARP_GITHUBCLASSROOM\StaticFunctionExercises\StaticFunctionExercises\obj\Debug\net8.0\StaticFunctionExercises.AssemblyInfo.cs
+C:\Users\xy\Desktop\CSHARP_GITHUBCLASSROOM\StaticFunctionExercises\StaticFunctionExercises\obj\Debug\net8.0\StaticFunctionExercises.csproj.CoreCompileInputs.cache
+C:\Users\xy\Desktop\CSHARP_GITHUBCLASSROOM\StaticFunctionExercises\StaticFunctionExercises\obj\Debug\net8.0\StaticFunctionExercises.dll
+C:\Users\xy\Desktop\CSHARP_GITHUBCLASSROOM\StaticFunctionExercises\StaticFunctionExercises\obj\Debug\net8.0\refint\StaticFunctionExercises.dll
+C:\Users\xy\Desktop\CSHARP_GITHUBCLASSROOM\StaticFunctionExercises\StaticFunctionExercises\obj\Debug\net8.0\StaticFunctionExercises.pdb
+C:\Users\xy\Desktop\CSHARP_GITHUBCLASSROOM\StaticFunctionExercises\StaticFunctionExercises\obj\Debug\net8.0\StaticFunctionExercises.genruntimeconfig.cache
+C:\Users\xy\Desktop\CSHARP_GITHUBCLASSROOM\StaticFunctionExercises\StaticFunctionExercises\obj\Debug\net8.0\ref\StaticFunctionExercises.dll
